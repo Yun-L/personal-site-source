@@ -1,0 +1,9 @@
+[submodule "grid-side"]
+	path = grid-side
+	url = https://github.com/chipsenkbeil/grid-side
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/prologue"]
+	path = themes/prologue
+	url = https://github.com/sethmacleod/prologue.git
